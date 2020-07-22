@@ -1,0 +1,35 @@
+.button {
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.btnDefault {
+  background-color: #a2de96;
+}
+
+.btnActive {
+  background-color: #f37121;
+}
+
+.btnReset {
+  background-color: red;
+}
+
+.btnStop {
+  background-color: yellow;
+}
+
+.btnSpeed {
+  background-color: #eebb4d;
+}

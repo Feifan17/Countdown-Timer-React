@@ -1,0 +1,38 @@
+label {
+  font-weight: bold;
+}
+
+input[type="text"] {
+  width: 20%;
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+input[type="submit"] {
+  background-color: #b6eb7a;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  margin: 0px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+}
+
+input[type="submit"]:hover {
+  cursor: pointer;
+  background-color: green;
+}
+
+.input-form {
+  margin: 10px 0;
+}
+
+.error {
+  color: red;
+}
