@@ -1,12 +1,15 @@
-#Countdown Timer
+# Countdown Timer
 
 A simple countdown timer built with React.js. The time format is in MM:SS.
+
+The live demo is hosted on Github Page: [https://feifan17.github.io/Countdown-Timer-React/](https://feifan17.github.io/Countdown-Timer-React/).
 
 ## Functionalities
 
 1. The user is able to enter a number of minutes(range from 1 to 99) and click "Start" button to initialize the timer.
 2. The user can pause or resume the timer.
 3. The user can change the speed of the timer:
+
    - 1.0X(normal speed, selected by default)
    - 1.5X
    - 2X
